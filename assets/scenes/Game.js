@@ -6,7 +6,7 @@ export default class Game extends Phaser.Scene {
   defeat;
   timer;
   constructor() {
-    super("game");
+    super("Game");
   }
 
   init() {
