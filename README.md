@@ -1,5 +1,3 @@
-# Phaser 3 Template
+# TP1 Ninja Moncho
 
-Plantilla para iniciar nuevos proyectos con PHASER 3.
-
-Contiene configuración inicial y buenas prácticas de estructuras de carpetas.
+Enviado por Scotto Facundo.
